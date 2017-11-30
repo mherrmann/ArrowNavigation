@@ -1,4 +1,4 @@
 [
 	{ "keys": ["Left"], "command": "go_up" },
-	{ "keys": ["Right"], "command": "open_directory" }
+	{ "keys": ["Right"], "command": "open_if_directory" }
 ]
