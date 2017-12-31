@@ -6,4 +6,5 @@
  * `Arrow right` opens the currently selected directory.
 
 ## Installation
-Download [master.zip](https://github.com/mherrmann/ArrowNavigation/archive/master.zip) and extract it to `~/Library/Application Support/fman/Plugins` (so you have `.../Plugins/ArrowNavigation-master`). Restart fman.
+Use fman's
+[built-in command for installing plugins](https://fman.io/docs/installing-plugins).
